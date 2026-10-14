@@ -1,2 +1,1 @@
-# my-first-repo
-Hi There!
+hii buddy
